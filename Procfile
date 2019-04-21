@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sky_combat_2524.wsgi:application
